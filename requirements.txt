@@ -1,0 +1,8 @@
+fastapi
+google-genai
+pypdf
+uvicorn
+gradio
+numpy
+faiss-cpu
+sentence-transformers
